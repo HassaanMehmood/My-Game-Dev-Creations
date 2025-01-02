@@ -4,7 +4,7 @@ As a Unity developer, I’ve had the opportunity to showcase my skills and knowl
 
 ---
 
-### 🚀 Featured Game: Feeding Frenzy
+### 🚀 Featured Games:
 
 ![General Games Pic](./assets/General.png)
 
