@@ -2,7 +2,7 @@
 
 Ready to put your reflexes to the test? **Endless Run** is an exciting and fast-paced game where your goal is to navigate through a construction site while avoiding obstacles and collecting coins. Can you set a new high score?
 
-![Endless Run Game](./assets/endless_run_banner.png)
+![Endless Run Game](./assets/Endless_Run.png)
 
 ---
 
