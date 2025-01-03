@@ -2,7 +2,7 @@
 
 Take on the role of a school bus driver in **School Bus Simulator**, a game where your mission is to safely pick up students and deliver them to school. Can you complete the route without any collisions?
 
-![School Bus Simulator Game](School_Bus_Simulator.png)
+![School Bus Simulator Game](./pic/School_Bus_Simulator.png)
 
 ---
 

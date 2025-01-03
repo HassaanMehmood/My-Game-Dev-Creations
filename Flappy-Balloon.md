@@ -2,7 +2,7 @@
 
 Ready to test your reflexes? **Flappy Balloon** is an addictive and fun game where your goal is to fly as high as possible while avoiding bombs and collecting coins. Can you set a new high score?
 
-![Flappy Balloon Game](Flappy_Balloon.png)
+![Flappy Balloon Game](./pic/Flappy_Balloon.png)
 
 ---
 

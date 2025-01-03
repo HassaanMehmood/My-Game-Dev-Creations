@@ -2,7 +2,7 @@
 
 Welcome to **Snow Boarder**, a thrilling snowboarding game where you glide down icy slopes, collect coins, and perform daring jumps. Your goal is to collect as many coins as possible while avoiding crashes to achieve the highest score. With challenging obstacles and exciting gameplay, you’ll need to master your snowboarding skills to win!
 
-![Snow Boarder Game](Snow_Boarder.png)
+![Snow Boarder Game](./pic/Snow_Boarder.png)
 
 ---
 

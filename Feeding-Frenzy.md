@@ -2,7 +2,7 @@
 
 Welcome to **Feeding Frenzy**, an exciting game where you play as a farmer feeding hungry animals. Your goal is to ensure all the animals are well-fed before they get too hungry. You have 3 chances to feed the animals correctly. Each successful feed increases your score, so be quick and accurate!
 
-![Feeding Frenzy Game](Feeding_Frenzy.png)
+![Feeding Frenzy Game](./pic/Feeding_Frenzy.png)
 
 ---
 

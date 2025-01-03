@@ -6,7 +6,7 @@ As a Unity developer, I’ve had the opportunity to showcase my skills and knowl
 
 ### 🚀 Featured Games:
 
-![General Games Pic](./assets/General.png)
+![General Games Pic](./pic/General.png)
 
 ---
 

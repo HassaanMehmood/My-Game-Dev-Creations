@@ -2,7 +2,7 @@
 
 Welcome to **Clicky Ninja**, an exciting game where you test your reflexes and skill by navigating through various challenges. Choose from three difficulty modes: Easy, Medium, and Hard, and see how far you can go. Your goal is to pick up boxes and avoid skulls while keeping your three lives intact and increasing your score.
 
-![Clicky Ninja Game](Clicky_Ninja.png)
+![Clicky Ninja Game](./pic/Clicky_Ninja.png)
 
 ---
 

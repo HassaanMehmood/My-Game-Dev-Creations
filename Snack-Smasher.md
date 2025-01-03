@@ -2,7 +2,7 @@
 
 Welcome to **Snack Smasher**, an exciting and fun-filled game where your reflexes and focus are the key to success! Click on snacks to score points while avoiding skulls that appear in random boxes. Can you beat the clock and set a high score?
 
-![Snack Smasher Game](Snack_Smasher.png)
+![Snack Smasher Game](./pic/Snack_Smasher.png)
 
 ---
 

@@ -2,7 +2,7 @@
 
 Welcome to **Delivery Driver**, where you race against the clock to deliver pizzas to hungry customers. Your goal is to successfully deliver all pizzas within the time limit to win. With only 120 seconds to complete the challenge, you'll need sharp reflexes and precise driving skills.
 
-![Delivery Driver Game](Delivery_Driver.png)
+![Delivery Driver Game](./pic/Delivery_Driver.png)
 
 ---
 

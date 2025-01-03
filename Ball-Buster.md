@@ -2,7 +2,7 @@
 
 Welcome to **Ball Buster**, an intense action-packed game where you face waves of enemy balls on a challenging round platform. Your goal is to survive each wave by avoiding falls and collisions, while knocking enemies off the edge. Power up your collision strength to deliver harder hits and dominate the arena.
 
-![Ball Buster Game](Ball_Buster.png)
+![Ball Buster Game](./pic/Ball_Buster.png)
 
 ---
 

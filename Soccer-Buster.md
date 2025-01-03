@@ -2,7 +2,7 @@
 
 Welcome to **Soccer Buster**, a thrilling game where you defend your goal against waves of enemy balls. Your mission is to prevent the enemy balls from scoring in your goal. If an enemy ball hits your goal 5 times, the game is over. Hit the enemy balls towards their goal to destroy them and increase your score. Strategically use your power-ups to boost your collision strength and dominate the field.
 
-![Soccer Buster Game](Goal_Buster.png)
+![Soccer Buster Game](./pic/Goal_Buster.png)
 
 ---
 
